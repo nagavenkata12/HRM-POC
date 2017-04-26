@@ -11,7 +11,7 @@ class App extends Component {
           <h2>SiarpTech</h2>
         </div>
         <p className="App-intro">
-          To get started, edit <code>src/App.js</code> , add few more node modules and save to reload.
+          To get started, edit <code>src/App.js</code> , add few more more node modules and save to reload.
         </p>
       </div>
     );
